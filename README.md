@@ -38,8 +38,51 @@ harness/              Python harness driving alephprover over lean-eval
 results/              CSV + per-problem logs (gitignored raw/, JSON summary tracked)
 ```
 
-## Notes on budgets
+## Running the harness
 
-`alephprover prove` defaults to 900 min and 50 credits. We pass small budgets
-for the sanity tests (`--time-budget 5 --cost-budget 1`) and tune for the full
-sweep based on what the smoke test shows.
+```bash
+# load API key
+set -a; . ./.env; set +a
+
+# sanity: re-prove 1+1=2 in tests/one_plus_one
+( cd tests/one_plus_one && alephprover prove OnePlusOne.lean one_plus_one --time-budget 5 --cost-budget 1 )
+
+# smoke set: 5 test=true + 5 sampled main problems
+python -m harness.run_eval --smoke --time-budget 10 --cost-budget 2
+
+# one problem
+python -m harness.run_eval --problem two_plus_two
+
+# everything (after smoke + go-ahead)
+python -m harness.run_eval --all --time-budget 30 --cost-budget 5
+
+# show progress
+python -m harness.status
+```
+
+Results land in `results/results.csv` (one row per hole). Per-problem raw logs
+go to `results/raw/<problem-id>.json`. Re-runs skip already-succeeded problems
+unless `--retry` is given.
+
+## Scoring
+
+lean-eval's official scorer (`comparator` + `landrun`) is **Linux-only**.
+On macOS we use a relaxed local check:
+
+1. Aleph's diff applied cleanly (`Proof applied successfully`)
+2. `lake build` succeeds in `workspaces/<id>/` with no `declaration uses sorry` warning
+3. `#print axioms Submission.<hole>` shows no `sorry` in the axiom list
+
+A problem counts as solved iff all three pass for every hole. To run the
+comparator-backed verdict, run the harness inside a Linux environment
+(Docker/CI) with `landrun`, `lean4export`, and `comparator` on PATH, then
+use `lake exe lean-eval run-eval --json` from inside `lean-eval/`.
+
+## Budgets
+
+`alephprover prove` defaults to 900 min and 50 credits per call. We use much
+smaller budgets:
+
+- sanity tests: `--time-budget 5 --cost-budget 1`
+- smoke: `--time-budget 10 --cost-budget 2`
+- full sweep: tuned after smoke results

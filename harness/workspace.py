@@ -39,14 +39,17 @@ def ensure_workspace(
     Returns the absolute path to the workspace.
     """
     ws = lean_eval_root / "workspaces" / problem_id
-    if not ws.is_dir():
+    fresh = not ws.is_dir()
+    if fresh:
         subprocess.run(
             ["lake", "exe", "lean-eval", "start-problem", problem_id],
             cwd=str(lean_eval_root),
             check=True,
         )
-    # lake update + cache get bring in mathlib oleans (idempotent)
-    subprocess.run(["lake", "update"], cwd=str(ws), check=False)
+    # lake update only on a fresh workspace (clones mathlib etc., ~minutes).
+    # cache get is fast when most oleans are already decompressed.
+    if fresh or not (ws / ".lake" / "packages" / "mathlib").is_dir():
+        subprocess.run(["lake", "update"], cwd=str(ws), check=False)
     subprocess.run(["lake", "exe", "cache", "get"], cwd=str(ws), check=False)
     return ws
 

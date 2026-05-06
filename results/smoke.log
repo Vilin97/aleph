@@ -1,0 +1,19 @@
+running 10 problem(s):
+  - two_plus_two  (test)  holes=['two_plus_two_eq_four']
+  - ci_regenerate_main_check  (test)  holes=['ci_regenerate_main_check']
+  - list_append_singleton_length  (test)  holes=['list_append_singleton_length']
+  - def_hole_example  (test)  holes=['foo', 'foo_def']
+  - instance_hole_example  (test)  holes=['WidgetCarrier', 'instInhabitedWidget']
+  - finite_graph_ramsey_theorem  (main)  holes=['finite_graph_ramsey_theorem']
+  - oppenheim_inequality  (main)  holes=['oppenheim_inequality']
+  - cyclotomic_integer_house_le_two  (main)  holes=['cyclotomic_integer_house_le_two']
+  - gleason_theorem_finite  (main)  holes=['gleason_theorem_finite']
+  - contractibleSpace_houseWithTwoRooms  (main)  holes=['contractibleSpace_houseWithTwoRooms']
+[two_plus_two] setup workspace...
+warning: mathlib: repository '/Users/vasil/Github/aleph/lean-eval/workspaces/two_plus_two/.lake/packages/mathlib' has local changes
+warning: batteries: repository '/Users/vasil/Github/aleph/lean-eval/workspaces/two_plus_two/.lake/packages/batteries' has local changes
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[two_plus_two] prove two_plus_two_eq_four (budget=10m / 2.0c)...
