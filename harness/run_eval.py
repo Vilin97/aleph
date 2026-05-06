@@ -138,8 +138,29 @@ def run_one(
     else:
         ws_dir = ws_mod.ensure_workspace(lean_eval_root=LEAN_EVAL, problem_id=problem.id)
 
+    # Skip the prove call if the Submission file is already free of `sorry` —
+    # avoids re-billing on workspaces that were proved in a previous run.
+    sub_path = ws_dir / "Submission.lean"
+    submission_text = sub_path.read_text() if sub_path.is_file() else ""
+    skip_prove = "sorry" not in submission_text
+
     prove_results: list[aleph.ProveResult] = []
     for hole in problem.holes:
+        if skip_prove:
+            print(f"[{problem.id}] skip prove {hole} (Submission.lean has no `sorry`)", flush=True)
+            prove_results.append(
+                aleph.ProveResult(
+                    problem_id=problem.id,
+                    hole=hole,
+                    workspace=str(ws_dir),
+                    request_id=None,
+                    applied=True,  # treat existing proof as "applied"
+                    elapsed_s=0.0,
+                    returncode=0,
+                    log="(skipped — Submission.lean already sorry-free)",
+                )
+            )
+            continue
         print(f"[{problem.id}] prove {hole} (budget={time_budget_min}m / {cost_budget}c)...", flush=True)
         pr = aleph.prove(
             workspace=ws_dir,

@@ -1,0 +1,17 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/gleason_theorem_finite
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 3df8d18c-de97-4729-9559-8fd12e0ca765
+View at: https://alephprover.logicalintelligence.com/requests/3df8d18c-de97-4729-9559-8fd12e0ca765
+Waiting for proof...
+  Stage: prove

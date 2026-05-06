@@ -16,4 +16,370 @@ Current branch: HEAD
 Using cache (Azure) from origin: (some leanprover-community/mathlib4)
 No files to download
 Already decompressed 8297 file(s)
-[two_plus_two] prove two_plus_two_eq_four (budget=10m / 2.0c)...
+[two_plus_two] skip prove two_plus_two_eq_four (Submission.lean has no `sorry`)
+[two_plus_two] lake build...
+[two_plus_two]   build_ok=True used_sorry=False
+[two_plus_two]   axioms two_plus_two_eq_four: ok=True []
+[ci_regenerate_main_check] setup workspace...
+Created workspace: workspaces/ci_regenerate_main_check
+Next steps:
+  cd workspaces/ci_regenerate_main_check
+  lake update
+  lake test
+info: ci_regenerate_main_check: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Lean (240ms)
+✔ [3/22] Built Cache.Init (212ms)
+✔ [4/22] Built Cache.Lean:c.o (86ms)
+✔ [5/22] Built Cache.Init:c.o (86ms)
+✔ [8/22] Built Batteries.Data.String.Basic (213ms)
+✔ [9/22] Built Cache.IO (632ms)
+✔ [10/22] Built Batteries.Data.Array.Match (390ms)
+✔ [11/22] Built Batteries.Data.String.Basic:c.o (91ms)
+✔ [12/22] Built Batteries.Data.Array.Match:c.o (121ms)
+✔ [13/22] Built Batteries.Data.String.Matcher (232ms)
+✔ [14/22] Built Cache.Hashing (455ms)
+✔ [15/22] Built Batteries.Data.String.Matcher:c.o (135ms)
+✔ [16/22] Built Cache.IO:c.o (569ms)
+✔ [17/22] Built Cache.Hashing:c.o (192ms)
+✔ [18/22] Built Cache.Requests (916ms)
+✔ [19/22] Built Cache.Main (514ms)
+✔ [20/22] Built Cache.Main:c.o (292ms)
+✔ [21/22] Built Cache.Requests:c.o (852ms)
+✔ [22/22] Built cache:exe (944ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 9331 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[ci_regenerate_main_check] prove ci_regenerate_main_check (budget=10m / 2.0c)...
+[ci_regenerate_main_check]   request=4cec49bb-a6ac-40ac-af92-a019378e185a applied=True elapsed=443.3s
+[ci_regenerate_main_check] lake build...
+[ci_regenerate_main_check]   build_ok=True used_sorry=False
+[ci_regenerate_main_check]   axioms ci_regenerate_main_check: ok=True []
+[list_append_singleton_length] setup workspace...
+Created workspace: workspaces/list_append_singleton_length
+Next steps:
+  cd workspaces/list_append_singleton_length
+  lake update
+  lake test
+info: list_append_singleton_length: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Lean (248ms)
+✔ [3/22] Built Cache.Init (314ms)
+✔ [4/22] Built Cache.Lean:c.o (101ms)
+✔ [5/22] Built Cache.Init:c.o (73ms)
+✔ [8/22] Built Batteries.Data.String.Basic (256ms)
+✔ [9/22] Built Cache.IO (618ms)
+✔ [10/22] Built Batteries.Data.Array.Match (368ms)
+✔ [11/22] Built Batteries.Data.String.Basic:c.o (79ms)
+✔ [12/22] Built Batteries.Data.Array.Match:c.o (123ms)
+✔ [13/22] Built Batteries.Data.String.Matcher (254ms)
+✔ [14/22] Built Cache.Hashing (490ms)
+✔ [15/22] Built Batteries.Data.String.Matcher:c.o (110ms)
+✔ [16/22] Built Cache.IO:c.o (571ms)
+✔ [17/22] Built Cache.Hashing:c.o (195ms)
+✔ [18/22] Built Cache.Requests (910ms)
+✔ [19/22] Built Cache.Main (514ms)
+✔ [20/22] Built Cache.Main:c.o (280ms)
+✔ [21/22] Built Cache.Requests:c.o (832ms)
+✔ [22/22] Built cache:exe (443ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 11340 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[list_append_singleton_length] prove list_append_singleton_length (budget=10m / 2.0c)...
+[list_append_singleton_length]   request=bc33faaa-4dd7-495f-86d5-ba677971bb39 applied=True elapsed=567.1s
+[list_append_singleton_length] lake build...
+[list_append_singleton_length]   build_ok=True used_sorry=False
+[list_append_singleton_length]   axioms list_append_singleton_length: ok=True []
+[def_hole_example] setup workspace...
+Created workspace: workspaces/def_hole_example
+Next steps:
+  cd workspaces/def_hole_example
+  lake update
+  lake test
+info: def_hole_example: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Init (204ms)
+✔ [3/22] Built Cache.Init:c.o (75ms)
+✔ [4/22] Built Cache.Lean (302ms)
+✔ [5/22] Built Cache.Lean:c.o (94ms)
+✔ [8/22] Built Batteries.Data.String.Basic (258ms)
+✔ [9/22] Built Batteries.Data.Array.Match (370ms)
+✔ [10/22] Built Batteries.Data.String.Basic:c.o (85ms)
+✔ [11/22] Built Cache.IO (669ms)
+✔ [12/22] Built Batteries.Data.Array.Match:c.o (142ms)
+✔ [13/22] Built Batteries.Data.String.Matcher (254ms)
+✔ [14/22] Built Batteries.Data.String.Matcher:c.o (110ms)
+✔ [15/22] Built Cache.Hashing (468ms)
+✔ [16/22] Built Cache.IO:c.o (572ms)
+✔ [17/22] Built Cache.Hashing:c.o (200ms)
+✔ [18/22] Built Cache.Requests (921ms)
+✔ [19/22] Built Cache.Main (511ms)
+✔ [20/22] Built Cache.Main:c.o (288ms)
+✔ [21/22] Built Cache.Requests:c.o (847ms)
+✔ [22/22] Built cache:exe (450ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 10943 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[def_hole_example] prove foo (budget=10m / 2.0c)...
+[def_hole_example]   request=f68a8107-b5b9-49eb-b78f-810667a50a33 applied=False elapsed=239.4s
+[def_hole_example] prove foo_def (budget=10m / 2.0c)...
+[def_hole_example]   request=ef5fcb4f-494b-4644-9570-4a9730b1895f applied=True elapsed=896.8s
+[def_hole_example] lake build...
+[def_hole_example]   build_ok=True used_sorry=True
+[instance_hole_example] setup workspace...
+Created workspace: workspaces/instance_hole_example
+Next steps:
+  cd workspaces/instance_hole_example
+  lake update
+  lake test
+info: instance_hole_example: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Lean (246ms)
+✔ [3/22] Built Cache.Init (212ms)
+✔ [4/22] Built Cache.Lean:c.o (95ms)
+✔ [5/22] Built Cache.Init:c.o (101ms)
+✔ [6/22] Built Cache.IO (614ms)
+✔ [9/22] Built Batteries.Data.String.Basic (248ms)
+✔ [10/22] Built Batteries.Data.Array.Match (372ms)
+✔ [11/22] Built Batteries.Data.String.Basic:c.o (75ms)
+✔ [12/22] Built Cache.Hashing (499ms)
+✔ [13/22] Built Batteries.Data.Array.Match:c.o (163ms)
+✔ [14/22] Built Cache.IO:c.o (638ms)
+✔ [15/22] Built Batteries.Data.String.Matcher (307ms)
+✔ [16/22] Built Cache.Hashing:c.o (277ms)
+✔ [17/22] Built Batteries.Data.String.Matcher:c.o (128ms)
+✔ [18/22] Built Cache.Requests (931ms)
+✔ [19/22] Built Cache.Main (520ms)
+✔ [20/22] Built Cache.Main:c.o (282ms)
+✔ [21/22] Built Cache.Requests:c.o (843ms)
+✔ [22/22] Built cache:exe (444ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 12036 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[instance_hole_example] prove WidgetCarrier (budget=10m / 2.0c)...
+[instance_hole_example]   request=8f257a79-afc0-42ef-878a-fa0da779eb58 applied=False elapsed=414.5s
+[instance_hole_example] prove instInhabitedWidget (budget=10m / 2.0c)...
+[instance_hole_example]   request=8eee1bad-3599-41a7-8fe4-464e92fb9b0a applied=False elapsed=296.4s
+[instance_hole_example] lake build...
+[instance_hole_example]   build_ok=True used_sorry=True
+[finite_graph_ramsey_theorem] setup workspace...
+Created workspace: workspaces/finite_graph_ramsey_theorem
+Next steps:
+  cd workspaces/finite_graph_ramsey_theorem
+  lake update
+  lake test
+info: finite_graph_ramsey_theorem: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Lean (256ms)
+✔ [3/22] Built Cache.Init (198ms)
+✔ [4/22] Built Cache.Lean:c.o (146ms)
+✔ [5/22] Built Cache.Init:c.o (195ms)
+✔ [8/22] Built Batteries.Data.String.Basic (230ms)
+✔ [9/22] Built Cache.IO (601ms)
+✔ [10/22] Built Batteries.Data.String.Basic:c.o (116ms)
+✔ [11/22] Built Batteries.Data.Array.Match (386ms)
+✔ [12/22] Built Batteries.Data.Array.Match:c.o (114ms)
+✔ [13/22] Built Batteries.Data.String.Matcher (229ms)
+✔ [14/22] Built Cache.Hashing (440ms)
+✔ [15/22] Built Batteries.Data.String.Matcher:c.o (105ms)
+✔ [16/22] Built Cache.IO:c.o (543ms)
+✔ [17/22] Built Cache.Hashing:c.o (186ms)
+✔ [18/22] Built Cache.Requests (903ms)
+✔ [19/22] Built Cache.Main (487ms)
+✔ [20/22] Built Cache.Main:c.o (274ms)
+✔ [21/22] Built Cache.Requests:c.o (822ms)
+✔ [22/22] Built cache:exe (829ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 11839 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[finite_graph_ramsey_theorem] prove finite_graph_ramsey_theorem (budget=10m / 2.0c)...
+[finite_graph_ramsey_theorem]   request=562a62df-044b-4a13-9cf8-b69177307188 applied=True elapsed=925.3s
+[finite_graph_ramsey_theorem] lake build...
+[finite_graph_ramsey_theorem]   build_ok=True used_sorry=True
+[oppenheim_inequality] setup workspace...
+Created workspace: workspaces/oppenheim_inequality
+Next steps:
+  cd workspaces/oppenheim_inequality
+  lake update
+  lake test
+info: oppenheim_inequality: no previous manifest, creating one from scratch
+info: mathlib: cloning https://github.com/leanprover-community/mathlib4.git
+info: mathlib: checking out revision '5450b53e5ddc75d46418fabb605edbf36bd0beb6'
+info: toolchain not updated; already up-to-date
+info: plausible: cloning https://github.com/leanprover-community/plausible
+info: plausible: checking out revision '86210d4ad1b08b086d0bd638637a75246523dbb8'
+info: LeanSearchClient: cloning https://github.com/leanprover-community/LeanSearchClient
+info: LeanSearchClient: checking out revision 'c5d5b8fe6e5158def25cd28eb94e4141ad97c843'
+info: importGraph: cloning https://github.com/leanprover-community/import-graph
+info: importGraph: checking out revision 'cdab3938ccabbdb044be6896e251b5814bec932e'
+info: proofwidgets: cloning https://github.com/leanprover-community/ProofWidgets4
+info: proofwidgets: checking out revision '2db6054a44326f8c0230ee0570e2ddb894816511'
+info: aesop: cloning https://github.com/leanprover-community/aesop
+info: aesop: checking out revision 'f0c6e183ea26531e82773feb4b73ab6595ca17a5'
+info: Qq: cloning https://github.com/leanprover-community/quote4
+info: Qq: checking out revision '1cc7e819b9b9bc1e87c9edcccb62e0269e00a809'
+info: batteries: cloning https://github.com/leanprover-community/batteries
+info: batteries: checking out revision '5c57f3857ba81924a88b2cdf4f062e34ec04ff11'
+info: Cli: cloning https://github.com/leanprover/lean4-cli
+info: Cli: checking out revision '13567aed1ac4f12aea9484178e07e51f8c9f7658'
+info: mathlib: running post-update hooks
+✔ [2/22] Built Cache.Lean (258ms)
+✔ [3/22] Built Cache.Init (199ms)
+✔ [4/22] Built Cache.Lean:c.o (172ms)
+✔ [5/22] Built Cache.Init:c.o (223ms)
+✔ [8/22] Built Cache.IO (604ms)
+✔ [9/22] Built Batteries.Data.String.Basic (249ms)
+✔ [10/22] Built Batteries.Data.Array.Match (360ms)
+✔ [11/22] Built Batteries.Data.String.Basic:c.o (73ms)
+✔ [12/22] Built Batteries.Data.Array.Match:c.o (116ms)
+✔ [13/22] Built Batteries.Data.String.Matcher (230ms)
+✔ [14/22] Built Cache.Hashing (444ms)
+✔ [15/22] Built Batteries.Data.String.Matcher:c.o (105ms)
+✔ [16/22] Built Cache.IO:c.o (560ms)
+✔ [17/22] Built Cache.Hashing:c.o (187ms)
+✔ [18/22] Built Cache.Requests (905ms)
+✔ [19/22] Built Cache.Main (494ms)
+✔ [20/22] Built Cache.Main:c.o (276ms)
+✔ [21/22] Built Cache.Requests:c.o (820ms)
+✔ [22/22] Built cache:exe (843ms)
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Decompressing 8294 file(s) (3 already decompressed)
+Decompressed in 14711 ms
+Completed successfully!
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[oppenheim_inequality] prove oppenheim_inequality (budget=10m / 2.0c)...

@@ -1,0 +1,17 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality
+Zipping project...
+Lake source paths: /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality, /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality, /Users/vasil/.elan/toolchains/leanprover--lean4---v4.30.0-rc2/src/lean/lake
+  lakefile.toml
+  lean-toolchain
+  lake-manifest.json
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: d05df5d3-0e05-4819-bf3a-f4e59f225ed3
+View at: https://alephprover.logicalintelligence.com/requests/d05df5d3-0e05-4819-bf3a-f4e59f225ed3
+Waiting for proof...
+  Stage: prove

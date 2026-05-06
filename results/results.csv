@@ -1,0 +1,10 @@
+timestamp,problem_id,title,test,hole,request_id,applied,build_ok,build_sorry,axiom_ok,axioms,succeeded,elapsed_prove_s,elapsed_total_s,time_budget_min,cost_budget
+2026-05-06T13:51:40,two_plus_two,2 + 2 = 4,True,two_plus_two_eq_four,1fc0de50-598b-4ee7-8dac-2f6e54ff2471,True,True,True,False,,False,598.7,612.1,10,2.0
+2026-05-06T13:53:34,two_plus_two,2 + 2 = 4,True,two_plus_two_eq_four,,True,True,False,True,,True,0.0,14.8,10,2.0
+2026-05-06T14:02:37,ci_regenerate_main_check,CI regenerate-main check,True,ci_regenerate_main_check,4cec49bb-a6ac-40ac-af92-a019378e185a,True,True,False,True,,True,443.3,542.5,10,2.0
+2026-05-06T14:13:45,list_append_singleton_length,Appending a singleton increases the list length,True,list_append_singleton_length,bc33faaa-4dd7-495f-86d5-ba677971bb39,True,True,False,True,,True,567.1,668.2,10,2.0
+2026-05-06T14:34:28,def_hole_example,def-hole minimal example,True,foo,f68a8107-b5b9-49eb-b78f-810667a50a33,False,True,True,False,,False,239.4,1242.7,10,2.0
+2026-05-06T14:34:28,def_hole_example,def-hole minimal example,True,foo_def,ef5fcb4f-494b-4644-9570-4a9730b1895f,True,True,True,False,,False,896.8,1242.7,10,2.0
+2026-05-06T14:47:51,instance_hole_example,instance-hole minimal example,True,WidgetCarrier,8f257a79-afc0-42ef-878a-fa0da779eb58,False,True,True,False,,False,414.5,803.4,10,2.0
+2026-05-06T14:47:51,instance_hole_example,instance-hole minimal example,True,instInhabitedWidget,8eee1bad-3599-41a7-8fe4-464e92fb9b0a,False,True,True,False,,False,296.4,803.4,10,2.0
+2026-05-06T15:04:49,finite_graph_ramsey_theorem,Finite Ramsey theorem for graphs,False,finite_graph_ramsey_theorem,562a62df-044b-4a13-9cf8-b69177307188,True,True,True,False,,False,925.3,1018.3,10,2.0

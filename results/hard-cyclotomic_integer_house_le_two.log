@@ -1,0 +1,16 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/cyclotomic_integer_house_le_two
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: 54910e96-3152-40d1-b56b-41970f43da2a
+View at: https://alephprover.logicalintelligence.com/requests/54910e96-3152-40d1-b56b-41970f43da2a
+Waiting for proof...
+  Stage: prove

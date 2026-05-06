@@ -1,0 +1,17 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem
+Zipping project...
+Lake source paths: /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem/.lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem, /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem, /Users/vasil/.elan/toolchains/leanprover--lean4---v4.30.0-rc2/src/lean/lake
+  lakefile.toml
+  lean-toolchain
+  lake-manifest.json
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 093a5d1e-1856-4ee8-b0ff-3451855d3c00
+View at: https://alephprover.logicalintelligence.com/requests/093a5d1e-1856-4ee8-b0ff-3451855d3c00
+Waiting for proof...
+  Stage: prove

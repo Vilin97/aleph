@@ -1,0 +1,28 @@
+[setup] finite_graph_ramsey_theorem: workspace ready at /Users/vasil/Github/aleph/lean-eval/workspaces/finite_graph_ramsey_theorem
+[setup] oppenheim_inequality: workspace ready at /Users/vasil/Github/aleph/lean-eval/workspaces/oppenheim_inequality
+Created workspace: workspaces/cyclotomic_integer_house_le_two
+Next steps:
+  cd workspaces/cyclotomic_integer_house_le_two
+  lake update
+  lake test
+[setup] cyclotomic_integer_house_le_two: workspace ready at /Users/vasil/Github/aleph/lean-eval/workspaces/cyclotomic_integer_house_le_two
+Created workspace: workspaces/gleason_theorem_finite
+Next steps:
+  cd workspaces/gleason_theorem_finite
+  lake update
+  lake test
+[setup] gleason_theorem_finite: workspace ready at /Users/vasil/Github/aleph/lean-eval/workspaces/gleason_theorem_finite
+Created workspace: workspaces/contractibleSpace_houseWithTwoRooms
+Next steps:
+  cd workspaces/contractibleSpace_houseWithTwoRooms
+  lake update
+  lake test
+[setup] contractibleSpace_houseWithTwoRooms: workspace ready at /Users/vasil/Github/aleph/lean-eval/workspaces/contractibleSpace_houseWithTwoRooms
+[launch] finite_graph_ramsey_theorem: pid=53056 -> /Users/vasil/Github/aleph/results/hard-finite_graph_ramsey_theorem.log
+[launch] oppenheim_inequality: pid=53057 -> /Users/vasil/Github/aleph/results/hard-oppenheim_inequality.log
+[launch] cyclotomic_integer_house_le_two: pid=53058 -> /Users/vasil/Github/aleph/results/hard-cyclotomic_integer_house_le_two.log
+[launch] gleason_theorem_finite: pid=53059 -> /Users/vasil/Github/aleph/results/hard-gleason_theorem_finite.log
+[launch] contractibleSpace_houseWithTwoRooms: pid=53060 -> /Users/vasil/Github/aleph/results/hard-contractibleSpace_houseWithTwoRooms.log
+
+All 5 prove calls launched. Waiting for completion...
+

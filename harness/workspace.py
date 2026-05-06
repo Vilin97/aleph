@@ -9,7 +9,14 @@ import subprocess
 import textwrap
 
 
-SORRY_RE = re.compile(r"declaration uses `sorry`")
+# A sorry warning we care about looks like:
+#   warning: Submission.lean:5:8: declaration uses `sorry`
+#   warning: ./Submission/Helpers.lean:1:0: declaration uses `sorry`
+# Challenge.lean keeps `:= by sorry` by design (trusted reference), so we only
+# flag warnings whose path begins with `Submission` (with any optional `./` prefix).
+SUBMISSION_SORRY_RE = re.compile(
+    r"(?m)^warning:\s+\.?/?Submission(?:\.lean|/[^:]+):.*declaration uses `sorry`"
+)
 BUILD_OK_RE = re.compile(r"Build completed successfully")
 
 
@@ -65,7 +72,7 @@ def build(workspace: pathlib.Path, *, timeout_s: float = 1800.0) -> BuildResult:
     log = proc.stdout + proc.stderr
     return BuildResult(
         ok=proc.returncode == 0 and bool(BUILD_OK_RE.search(log)),
-        used_sorry=bool(SORRY_RE.search(log)),
+        used_sorry=bool(SUBMISSION_SORRY_RE.search(log)),
         log=log,
         returncode=proc.returncode,
     )
