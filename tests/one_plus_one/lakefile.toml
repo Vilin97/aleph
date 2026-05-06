@@ -1,0 +1,5 @@
+name = "OnePlusOne"
+defaultTargets = ["OnePlusOne"]
+
+[[lean_lib]]
+name = "OnePlusOne"
