@@ -26,3 +26,24 @@ Next steps:
 
 All 5 prove calls launched. Waiting for completion...
 
+[done ] gleason_theorem_finite: rc=1 applied=False request=3df8d18c-de97-4729-9559-8fd12e0ca765 elapsed=28.0m  (4 pending)
+[done ] finite_graph_ramsey_theorem: rc=1 applied=False request=093a5d1e-1856-4ee8-b0ff-3451855d3c00 elapsed=28.0m  (3 pending)
+[done ] cyclotomic_integer_house_le_two: rc=1 applied=False request=54910e96-3152-40d1-b56b-41970f43da2a elapsed=28.0m  (2 pending)
+[done ] contractibleSpace_houseWithTwoRooms: rc=1 applied=False request=d4966fa0-d985-4eb6-b893-dd976e6d22ee elapsed=28.0m  (1 pending)
+[done ] oppenheim_inequality: rc=1 applied=False request=d05df5d3-0e05-4819-bf3a-f4e59f225ed3 elapsed=28.0m  (0 pending)
+
+=== verifying each workspace ===
+
+[verify] finite_graph_ramsey_theorem: cache get...
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[verify] finite_graph_ramsey_theorem: lake build...
+[verify] finite_graph_ramsey_theorem: build_ok=True used_sorry=True
+[verify] oppenheim_inequality: cache get...
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[verify] oppenheim_inequality: lake build...

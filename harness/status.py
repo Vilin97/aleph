@@ -14,10 +14,19 @@ def main() -> int:
     if not CSV_PATH.exists():
         print("no results yet (results/results.csv missing)")
         return 0
-    rows = list(csv.DictReader(CSV_PATH.open()))
-    if not rows:
+    all_rows = list(csv.DictReader(CSV_PATH.open()))
+    if not all_rows:
         print("results.csv exists but has no rows")
         return 0
+
+    # Dedupe: latest row wins per (problem_id, hole)
+    latest: dict[tuple[str, str], dict] = {}
+    for r in all_rows:
+        key = (r["problem_id"], r["hole"])
+        prev = latest.get(key)
+        if prev is None or r["timestamp"] >= prev["timestamp"]:
+            latest[key] = r
+    rows = list(latest.values())
 
     by_problem: dict[str, list[dict]] = {}
     for r in rows:

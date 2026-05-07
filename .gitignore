@@ -19,6 +19,10 @@ lake-manifest.json.bak
 artifacts/
 results/raw/
 
+# lean-eval per-run artifacts (large)
+lean-eval/workspaces/
+lean-eval/.shared-lake/
+
 # OS
 .DS_Store
 *.swp
