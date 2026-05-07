@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/mulCayley_connected_iff_closure_eq_top
+Zipping project...
+Lake source paths: /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/Cli, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/batteries, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/Qq, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/aesop, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/proofwidgets, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/importGraph, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/LeanSearchClient, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/plausible, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/.shared-lake/packages/mathlib, /Users/vasil/Github/aleph/lean-eval/workspaces/mulCayley_connected_iff_closure_eq_top, /Users/vasil/Github/aleph/lean-eval/workspaces/mulCayley_connected_iff_closure_eq_top, /Users/vasil/Github/aleph/lean-eval/workspaces/mulCayley_connected_iff_closure_eq_top, /Users/vasil/.elan/toolchains/leanprover--lean4---v4.30.0-rc2/src/lean/lake
+  lakefile.toml
+  lean-toolchain
+  lake-manifest.json
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 85bbf699-0921-47e1-bc37-30754ca622ff
+View at: https://alephprover.logicalintelligence.com/requests/85bbf699-0921-47e1-bc37-30754ca622ff

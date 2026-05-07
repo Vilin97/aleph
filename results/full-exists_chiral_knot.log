@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/exists_chiral_knot
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: ae10173f-fe5f-40f0-877d-fa609eeceaf9
+View at: https://alephprover.logicalintelligence.com/requests/ae10173f-fe5f-40f0-877d-fa609eeceaf9

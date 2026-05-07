@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: 988fe560-f134-4c78-bde8-60216fe5c5d9
+View at: https://alephprover.logicalintelligence.com/requests/988fe560-f134-4c78-bde8-60216fe5c5d9

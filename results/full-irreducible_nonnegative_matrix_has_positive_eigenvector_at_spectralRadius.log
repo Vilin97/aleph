@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: 786ac814-6d01-4ff4-ad2b-a3bec9a0e84e
+View at: https://alephprover.logicalintelligence.com/requests/786ac814-6d01-4ff4-ad2b-a3bec9a0e84e

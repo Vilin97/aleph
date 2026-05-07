@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/schreier_conjecture
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: ab81b25f-df3e-40a2-b68e-15f7585679a8
+View at: https://alephprover.logicalintelligence.com/requests/ab81b25f-df3e-40a2-b68e-15f7585679a8

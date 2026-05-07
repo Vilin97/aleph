@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/exists_nonisotopic_link
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: c19e38b7-bfe6-4db0-9cf0-61352f2f1342
+View at: https://alephprover.logicalintelligence.com/requests/c19e38b7-bfe6-4db0-9cf0-61352f2f1342

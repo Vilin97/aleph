@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/linear_ode_asymptotic_stability
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: fb55e9b7-4d75-4362-9a4d-7c999c4b2dec
+View at: https://alephprover.logicalintelligence.com/requests/fb55e9b7-4d75-4362-9a4d-7c999c4b2dec

@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/topological_classification_of_surfaces
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 9ffc0e26-f3d5-4ee1-9c9a-6b955b64b6ae
+View at: https://alephprover.logicalintelligence.com/requests/9ffc0e26-f3d5-4ee1-9c9a-6b955b64b6ae

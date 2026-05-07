@@ -1,0 +1,1914 @@
+running 45 problem(s):
+  - chudnovsky_formula_for_pi_inv  holes=['chudnovsky_formula_for_pi_inv']
+  - pi1_circle_mulEquiv_int  holes=['pi1_circle_mulEquiv_int']
+  - substInv_X_sub_X_sq_eq_catalan  holes=['substInv_X_sub_X_sq_eq_catalan']
+  - riemann_hypothesis_iff_lagarias_elementary_criterion  holes=['riemann_hypothesis_iff_lagarias_elementary_criterion']
+  - dvd_card_connectedComponent_markoffGraph  holes=['dvd_card_connectedComponent_markoffGraph']
+  - mulCayley_connected_iff_closure_eq_top  holes=['mulCayley_connected_iff_closure_eq_top']
+  - pi3_sphere_two_mulEquiv_int  holes=['pi3_sphere_two_mulEquiv_int']
+  - pin_sphere_n_mulEquiv_int  holes=['pin_sphere_n_mulEquiv_int']
+  - pi_succ_sphere_n_mulEquiv_zmod_two  holes=['pi_succ_sphere_n_mulEquiv_zmod_two']
+  - finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow  holes=['finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow']
+  - rouche_zero_count_eq  holes=['rouche_zero_count_eq']
+  - mem_convexHull_finset_extremePoints_of_mem_compact_convex  holes=['mem_convexHull_finset_extremePoints_of_mem_compact_convex']
+  - irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius  holes=['irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius']
+  - exists_complementary_polynomial_on_unit_circle  holes=['exists_complementary_polynomial_on_unit_circle']
+  - posSemidef_map_exp  holes=['posSemidef_map_exp']
+  - vonNeumann_doubleCommutant_tfae  holes=['vonNeumann_doubleCommutant_tfae']
+  - symAction_range_eq_centralizer_glAction  holes=['symAction_range_eq_centralizer_glAction']
+  - glAction_range_eq_centralizer_symAction  holes=['glAction_range_eq_centralizer_symAction']
+  - g2_irrep_tensor_square_decomp  holes=['g2_irrep_tensor_square_decomp']
+  - e8_irrep_tensor_square_decomp  holes=['e8_irrep_tensor_square_decomp']
+  - cerf_gamma_four  holes=['cerf_gamma_four']
+  - smale_conjecture  holes=['smale_conjecture']
+  - cyclotomic_integer_house_between_two_and_76_33  holes=['cyclotomic_integer_house_between_two_and_76_33']
+  - gleason_theorem_separable  holes=['gleason_theorem_separable']
+  - exists_nonisotopic_link  holes=['exists_nonisotopic_link']
+  - exists_nonisotopic_knots  holes=['exists_nonisotopic_knots']
+  - exists_chiral_knot  holes=['exists_chiral_knot']
+  - brauer_character_in_cyclotomic  holes=['brauer_character_in_cyclotomic']
+  - m23_irrep_tensor_square_decomp  holes=['m23_irrep_tensor_square_decomp']
+  - frobenius_kernel_isNormal  holes=['frobenius_kernel_isNormal']
+  - glauberman_zStar  holes=['glauberman_zStar']
+  - schreier_conjecture  holes=['schreier_conjecture']
+  - five_transitive_card_classification  holes=['five_transitive_card_classification']
+  - topological_classification_of_surfaces  holes=['classification_of_surfaces']
+  - deBranges_theorem  holes=['deBranges']
+  - cubic_decay_asymptotic  holes=['cubic_decay_asymptotic']
+  - bakerWustholz_linearForms_logs  holes=['bakerWustholz_linearForms_logs']
+  - sturm_separation  holes=['sturm_separation']
+  - dirichlet_eigenvalues_eq_nat_sq  holes=['dirichlet_eigenvalues_eq_nat_sq']
+  - linear_ode_asymptotic_stability  holes=['linear_ode_asymptotic_stability']
+  - bvp_comparison  holes=['bvp_comparison']
+  - heat_kernel_solves_heat_equation  holes=['heat_kernel_solves_heat_equation']
+  - fermat_last_theorem  holes=['fermat_last_theorem']
+  - rado_riemannSurface  holes=['rado_riemannSurface']
+  - neukirch_uchida  holes=['neukirch_uchida']
+Created workspace: workspaces/chudnovsky_formula_for_pi_inv
+Next steps:
+  cd workspaces/chudnovsky_formula_for_pi_inv
+  lake update
+  lake test
+[setup] chudnovsky_formula_for_pi_inv: workspace ready
+Created workspace: workspaces/pi1_circle_mulEquiv_int
+Next steps:
+  cd workspaces/pi1_circle_mulEquiv_int
+  lake update
+  lake test
+[setup] pi1_circle_mulEquiv_int: workspace ready
+Created workspace: workspaces/substInv_X_sub_X_sq_eq_catalan
+Next steps:
+  cd workspaces/substInv_X_sub_X_sq_eq_catalan
+  lake update
+  lake test
+[setup] substInv_X_sub_X_sq_eq_catalan: workspace ready
+Created workspace: workspaces/riemann_hypothesis_iff_lagarias_elementary_criterion
+Next steps:
+  cd workspaces/riemann_hypothesis_iff_lagarias_elementary_criterion
+  lake update
+  lake test
+[setup] riemann_hypothesis_iff_lagarias_elementary_criterion: workspace ready
+Created workspace: workspaces/dvd_card_connectedComponent_markoffGraph
+Next steps:
+  cd workspaces/dvd_card_connectedComponent_markoffGraph
+  lake update
+  lake test
+[setup] dvd_card_connectedComponent_markoffGraph: workspace ready
+Created workspace: workspaces/mulCayley_connected_iff_closure_eq_top
+Next steps:
+  cd workspaces/mulCayley_connected_iff_closure_eq_top
+  lake update
+  lake test
+[setup] mulCayley_connected_iff_closure_eq_top: workspace ready
+Created workspace: workspaces/pi3_sphere_two_mulEquiv_int
+Next steps:
+  cd workspaces/pi3_sphere_two_mulEquiv_int
+  lake update
+  lake test
+[setup] pi3_sphere_two_mulEquiv_int: workspace ready
+Created workspace: workspaces/pin_sphere_n_mulEquiv_int
+Next steps:
+  cd workspaces/pin_sphere_n_mulEquiv_int
+  lake update
+  lake test
+[setup] pin_sphere_n_mulEquiv_int: workspace ready
+Created workspace: workspaces/pi_succ_sphere_n_mulEquiv_zmod_two
+Next steps:
+  cd workspaces/pi_succ_sphere_n_mulEquiv_zmod_two
+  lake update
+  lake test
+[setup] pi_succ_sphere_n_mulEquiv_zmod_two: workspace ready
+Created workspace: workspaces/finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow
+Next steps:
+  cd workspaces/finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow
+  lake update
+  lake test
+[setup] finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow: workspace ready
+Created workspace: workspaces/rouche_zero_count_eq
+Next steps:
+  cd workspaces/rouche_zero_count_eq
+  lake update
+  lake test
+[setup] rouche_zero_count_eq: workspace ready
+Created workspace: workspaces/mem_convexHull_finset_extremePoints_of_mem_compact_convex
+Next steps:
+  cd workspaces/mem_convexHull_finset_extremePoints_of_mem_compact_convex
+  lake update
+  lake test
+[setup] mem_convexHull_finset_extremePoints_of_mem_compact_convex: workspace ready
+Created workspace: workspaces/irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius
+Next steps:
+  cd workspaces/irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius
+  lake update
+  lake test
+[setup] irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius: workspace ready
+Created workspace: workspaces/exists_complementary_polynomial_on_unit_circle
+Next steps:
+  cd workspaces/exists_complementary_polynomial_on_unit_circle
+  lake update
+  lake test
+[setup] exists_complementary_polynomial_on_unit_circle: workspace ready
+Created workspace: workspaces/posSemidef_map_exp
+Next steps:
+  cd workspaces/posSemidef_map_exp
+  lake update
+  lake test
+[setup] posSemidef_map_exp: workspace ready
+Created workspace: workspaces/vonNeumann_doubleCommutant_tfae
+Next steps:
+  cd workspaces/vonNeumann_doubleCommutant_tfae
+  lake update
+  lake test
+[setup] vonNeumann_doubleCommutant_tfae: workspace ready
+Created workspace: workspaces/symAction_range_eq_centralizer_glAction
+Next steps:
+  cd workspaces/symAction_range_eq_centralizer_glAction
+  lake update
+  lake test
+[setup] symAction_range_eq_centralizer_glAction: workspace ready
+Created workspace: workspaces/glAction_range_eq_centralizer_symAction
+Next steps:
+  cd workspaces/glAction_range_eq_centralizer_symAction
+  lake update
+  lake test
+[setup] glAction_range_eq_centralizer_symAction: workspace ready
+Created workspace: workspaces/g2_irrep_tensor_square_decomp
+Next steps:
+  cd workspaces/g2_irrep_tensor_square_decomp
+  lake update
+  lake test
+[setup] g2_irrep_tensor_square_decomp: workspace ready
+Created workspace: workspaces/e8_irrep_tensor_square_decomp
+Next steps:
+  cd workspaces/e8_irrep_tensor_square_decomp
+  lake update
+  lake test
+[setup] e8_irrep_tensor_square_decomp: workspace ready
+Created workspace: workspaces/cerf_gamma_four
+Next steps:
+  cd workspaces/cerf_gamma_four
+  lake update
+  lake test
+[setup] cerf_gamma_four: workspace ready
+Created workspace: workspaces/smale_conjecture
+Next steps:
+  cd workspaces/smale_conjecture
+  lake update
+  lake test
+[setup] smale_conjecture: workspace ready
+Created workspace: workspaces/cyclotomic_integer_house_between_two_and_76_33
+Next steps:
+  cd workspaces/cyclotomic_integer_house_between_two_and_76_33
+  lake update
+  lake test
+[setup] cyclotomic_integer_house_between_two_and_76_33: workspace ready
+Created workspace: workspaces/gleason_theorem_separable
+Next steps:
+  cd workspaces/gleason_theorem_separable
+  lake update
+  lake test
+[setup] gleason_theorem_separable: workspace ready
+Created workspace: workspaces/exists_nonisotopic_link
+Next steps:
+  cd workspaces/exists_nonisotopic_link
+  lake update
+  lake test
+[setup] exists_nonisotopic_link: workspace ready
+Created workspace: workspaces/exists_nonisotopic_knots
+Next steps:
+  cd workspaces/exists_nonisotopic_knots
+  lake update
+  lake test
+[setup] exists_nonisotopic_knots: workspace ready
+Created workspace: workspaces/exists_chiral_knot
+Next steps:
+  cd workspaces/exists_chiral_knot
+  lake update
+  lake test
+[setup] exists_chiral_knot: workspace ready
+Created workspace: workspaces/brauer_character_in_cyclotomic
+Next steps:
+  cd workspaces/brauer_character_in_cyclotomic
+  lake update
+  lake test
+[setup] brauer_character_in_cyclotomic: workspace ready
+Created workspace: workspaces/m23_irrep_tensor_square_decomp
+Next steps:
+  cd workspaces/m23_irrep_tensor_square_decomp
+  lake update
+  lake test
+[setup] m23_irrep_tensor_square_decomp: workspace ready
+Created workspace: workspaces/frobenius_kernel_isNormal
+Next steps:
+  cd workspaces/frobenius_kernel_isNormal
+  lake update
+  lake test
+[setup] frobenius_kernel_isNormal: workspace ready
+Created workspace: workspaces/glauberman_zStar
+Next steps:
+  cd workspaces/glauberman_zStar
+  lake update
+  lake test
+[setup] glauberman_zStar: workspace ready
+Created workspace: workspaces/schreier_conjecture
+Next steps:
+  cd workspaces/schreier_conjecture
+  lake update
+  lake test
+[setup] schreier_conjecture: workspace ready
+Created workspace: workspaces/five_transitive_card_classification
+Next steps:
+  cd workspaces/five_transitive_card_classification
+  lake update
+  lake test
+[setup] five_transitive_card_classification: workspace ready
+Created workspace: workspaces/topological_classification_of_surfaces
+Next steps:
+  cd workspaces/topological_classification_of_surfaces
+  lake update
+  lake test
+[setup] topological_classification_of_surfaces: workspace ready
+Created workspace: workspaces/deBranges_theorem
+Next steps:
+  cd workspaces/deBranges_theorem
+  lake update
+  lake test
+[setup] deBranges_theorem: workspace ready
+Created workspace: workspaces/cubic_decay_asymptotic
+Next steps:
+  cd workspaces/cubic_decay_asymptotic
+  lake update
+  lake test
+[setup] cubic_decay_asymptotic: workspace ready
+Created workspace: workspaces/bakerWustholz_linearForms_logs
+Next steps:
+  cd workspaces/bakerWustholz_linearForms_logs
+  lake update
+  lake test
+[setup] bakerWustholz_linearForms_logs: workspace ready
+Created workspace: workspaces/sturm_separation
+Next steps:
+  cd workspaces/sturm_separation
+  lake update
+  lake test
+[setup] sturm_separation: workspace ready
+Created workspace: workspaces/dirichlet_eigenvalues_eq_nat_sq
+Next steps:
+  cd workspaces/dirichlet_eigenvalues_eq_nat_sq
+  lake update
+  lake test
+[setup] dirichlet_eigenvalues_eq_nat_sq: workspace ready
+Created workspace: workspaces/linear_ode_asymptotic_stability
+Next steps:
+  cd workspaces/linear_ode_asymptotic_stability
+  lake update
+  lake test
+[setup] linear_ode_asymptotic_stability: workspace ready
+Created workspace: workspaces/bvp_comparison
+Next steps:
+  cd workspaces/bvp_comparison
+  lake update
+  lake test
+[setup] bvp_comparison: workspace ready
+Created workspace: workspaces/heat_kernel_solves_heat_equation
+Next steps:
+  cd workspaces/heat_kernel_solves_heat_equation
+  lake update
+  lake test
+[setup] heat_kernel_solves_heat_equation: workspace ready
+Created workspace: workspaces/fermat_last_theorem
+Next steps:
+  cd workspaces/fermat_last_theorem
+  lake update
+  lake test
+[setup] fermat_last_theorem: workspace ready
+Created workspace: workspaces/rado_riemannSurface
+Next steps:
+  cd workspaces/rado_riemannSurface
+  lake update
+  lake test
+[setup] rado_riemannSurface: workspace ready
+Created workspace: workspaces/neukirch_uchida
+Next steps:
+  cd workspaces/neukirch_uchida
+  lake update
+  lake test
+[setup] neukirch_uchida: workspace ready
+
+=== submitting 45 prove calls (--no-poll) ===
+
+[submit] chudnovsky_formula_for_pi_inv: rid=6cbb6394-b779-4309-8e3f-5161643aac3a
+[submit] pi1_circle_mulEquiv_int: rid=ba729480-e68f-46ef-bd0a-6f1b53bd3f96
+[submit] substInv_X_sub_X_sq_eq_catalan: rid=1215f970-a015-4729-9712-f941e166c9ac
+[submit] riemann_hypothesis_iff_lagarias_elementary_criterion: rid=906d5101-0edc-4de4-ac15-d359fa553cbc
+[submit] dvd_card_connectedComponent_markoffGraph: rid=24f10167-be00-40af-88bd-75b952ccb9d9
+[submit] mulCayley_connected_iff_closure_eq_top: NO REQUEST ID, see /Users/vasil/Github/aleph/results/full-mulCayley_connected_iff_closure_eq_top.log
+[submit] pi3_sphere_two_mulEquiv_int: rid=a9824a71-9678-441e-9b1b-03995fc3c4f4
+[submit] pin_sphere_n_mulEquiv_int: rid=80f66f67-a0f6-4e12-926a-18bb483b781e
+[submit] pi_succ_sphere_n_mulEquiv_zmod_two: rid=61552b19-3e42-4ccc-844d-35b3c7bd6fbd
+[submit] finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow: rid=988fe560-f134-4c78-bde8-60216fe5c5d9
+[submit] rouche_zero_count_eq: NO REQUEST ID, see /Users/vasil/Github/aleph/results/full-rouche_zero_count_eq.log
+[submit] mem_convexHull_finset_extremePoints_of_mem_compact_convex: rid=b34eafd4-0415-4408-854c-dbe4640f781d
+[submit] irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius: rid=786ac814-6d01-4ff4-ad2b-a3bec9a0e84e
+[submit] exists_complementary_polynomial_on_unit_circle: rid=5163f634-1bdf-4eda-a5a6-8a79bb380272
+[submit] posSemidef_map_exp: rid=df460175-814c-4d6c-8c1e-204fd22e5408
+[submit] vonNeumann_doubleCommutant_tfae: rid=7471869e-7b70-41ca-bd22-943a9e6a3b1f
+[submit] symAction_range_eq_centralizer_glAction: rid=6aaf8104-9891-4141-b4e8-a5a08e9acf08
+[submit] glAction_range_eq_centralizer_symAction: rid=4c01d978-abb9-4914-af8b-e705f56af4f5
+[submit] g2_irrep_tensor_square_decomp: rid=142c319c-f15c-48c0-8856-4000542cfc8f
+[submit] e8_irrep_tensor_square_decomp: rid=13306cf4-a142-45db-b457-a29d040916a7
+[submit] cerf_gamma_four: rid=6fd23f35-61a5-4a7b-9bf5-b7010bad8abc
+[submit] smale_conjecture: rid=bc7798c2-013e-4e87-9dff-3d91d1b86e91
+[submit] cyclotomic_integer_house_between_two_and_76_33: rid=39851bc3-f7f0-443d-84d4-75052f078882
+[submit] gleason_theorem_separable: rid=21ba2afb-0e99-40e5-b01f-fb938b8ae38d
+[submit] exists_nonisotopic_link: rid=c19e38b7-bfe6-4db0-9cf0-61352f2f1342
+[submit] exists_nonisotopic_knots: rid=507990b7-d647-4e2a-9b48-f32e11929cd5
+[submit] exists_chiral_knot: rid=ae10173f-fe5f-40f0-877d-fa609eeceaf9
+[submit] brauer_character_in_cyclotomic: rid=18468cd7-ad2c-43c0-88e6-d24288aa935b
+[submit] m23_irrep_tensor_square_decomp: rid=5e3d181c-e795-4360-9f66-18cbee19b1c2
+[submit] frobenius_kernel_isNormal: rid=69d344de-7495-4a07-b5a6-08eab60ba3c2
+[submit] glauberman_zStar: rid=417bb8a3-56b3-4b94-88e5-dfcfa8b2062c
+[submit] schreier_conjecture: rid=ab81b25f-df3e-40a2-b68e-15f7585679a8
+[submit] five_transitive_card_classification: rid=2b04df95-ce68-4ef2-8130-8c0909ca118f
+[submit] topological_classification_of_surfaces: rid=9ffc0e26-f3d5-4ee1-9c9a-6b955b64b6ae
+[submit] deBranges_theorem: rid=f386d042-f94a-49e6-96c4-4aa069ce896e
+[submit] cubic_decay_asymptotic: rid=0d588799-1403-4d2f-8868-6f0ea559c257
+[submit] bakerWustholz_linearForms_logs: rid=52b7e423-6777-4ce6-8aba-d87b5a497f5c
+[submit] sturm_separation: rid=d2905796-08e8-4a18-8fc3-0e6d3ac3c279
+[submit] dirichlet_eigenvalues_eq_nat_sq: rid=3733515c-bdd4-4277-9077-ddd79fc4aefc
+[submit] linear_ode_asymptotic_stability: rid=fb55e9b7-4d75-4362-9a4d-7c999c4b2dec
+[submit] bvp_comparison: rid=3da936bb-cddc-4ba4-b581-2ed54d3a8bef
+[submit] heat_kernel_solves_heat_equation: rid=79ffd4fe-aa62-4b48-81f0-94bff8cec019
+[submit] fermat_last_theorem: rid=b3f3465b-7357-459d-9984-467c1c548dc1
+[submit] rado_riemannSurface: rid=47992b2b-58d6-4901-b179-3c7d58e82da8
+[submit] neukirch_uchida: rid=70e55135-a0de-4f05-868b-c18941d01ee9
+
+Submitted 43/45 requests.
+
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas=1/1 cost=1.65
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas=2/2 cost=1.18
+[heat_kernel_solves_heat_equation] running lemmas= cost=
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas=1/4 cost=2.75
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas= cost=
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas=1/1 cost=1.77
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas= cost=
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas= cost=
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas=2/2 cost=1.36
+[heat_kernel_solves_heat_equation] running lemmas=1/3 cost=1.42
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas= cost=
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas=1/4 cost=5.25
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas=3/4 cost=8.83
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas=1/1 cost=1.77
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas=1/3 cost=1.13
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas=2/5 cost=2.69
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas=3/6 cost=3.29
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] running lemmas=2/2 cost=1.36
+[heat_kernel_solves_heat_equation] running lemmas=1/3 cost=3.11
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=4/5 cost=5.15
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas= cost=
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas= cost=
+[posSemidef_map_exp] running lemmas=2/4 cost=6.53
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas=3/4 cost=10.33
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] running lemmas=1/1 cost=1.77
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas= cost=
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas=1/3 cost=1.64
+[brauer_character_in_cyclotomic] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas= cost=
+[schreier_conjecture] running lemmas=4/5 cost=4.11
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas= cost=
+[sturm_separation] running lemmas=5/6 cost=4.57
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[bvp_comparison] final status=completed (42 pending)
+[bvp_comparison] lake build...
+[bvp_comparison]   build_ok=True used_sorry=False
+[bvp_comparison]   axioms bvp_comparison: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[heat_kernel_solves_heat_equation] running lemmas=1/3 cost=6.04
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=4/5 cost=8.34
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=1/3 cost=9.54
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=3/4 cost=6.09
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=2/5 cost=5.80
+[posSemidef_map_exp] running lemmas=3/4 cost=10.12
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas=3/4 cost=12.38
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[g2_irrep_tensor_square_decomp] final status=completed (41 pending)
+[g2_irrep_tensor_square_decomp] lake build...
+[g2_irrep_tensor_square_decomp]   build_ok=False used_sorry=False
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas=1/1 cost=3.79
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] running lemmas=1/1 cost=0.84
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] running lemmas=1/1 cost=2.63
+[brauer_character_in_cyclotomic] running lemmas=4/4 cost=5.98
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=2/4 cost=5.38
+[schreier_conjecture] running lemmas=5/5 cost=5.29
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=6/8 cost=6.45
+[sturm_separation] running lemmas=6/6 cost=5.05
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=1/3 cost=8.02
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=4/5 cost=10.53
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas=1/2 cost=4.31
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=1/3 cost=12.63
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=3/4 cost=9.03
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=4/5 cost=8.62
+[posSemidef_map_exp] running lemmas=3/4 cost=12.95
+[vonNeumann_doubleCommutant_tfae] running lemmas= cost=
+[symAction_range_eq_centralizer_glAction] running lemmas=3/4 cost=14.54
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] running lemmas=1/1 cost=3.86
+[smale_conjecture] running lemmas= cost=
+[cyclotomic_integer_house_between_two_and_76_33] final status=completed (40 pending)
+[cyclotomic_integer_house_between_two_and_76_33] lake build...
+[cyclotomic_integer_house_between_two_and_76_33]   build_ok=False used_sorry=False
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[exists_chiral_knot] final status=completed (39 pending)
+[exists_chiral_knot] lake build...
+[exists_chiral_knot]   build_ok=False used_sorry=False
+[brauer_character_in_cyclotomic] running lemmas=4/4 cost=6.37
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=2/5 cost=7.98
+[schreier_conjecture] final status=completed (38 pending)
+[schreier_conjecture] lake build...
+[schreier_conjecture]   build_ok=False used_sorry=False
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=7/8 cost=9.18
+[sturm_separation] final status=completed (37 pending)
+[sturm_separation] lake build...
+[sturm_separation]   build_ok=True used_sorry=False
+[sturm_separation]   axioms sturm_separation: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=1/3 cost=11.55
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=4/5 cost=13.47
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] running lemmas=1/6 cost=6.53
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=1/3 cost=16.03
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=3/4 cost=12.19
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=4/5 cost=10.98
+[posSemidef_map_exp] final status=completed (36 pending)
+[posSemidef_map_exp] lake build...
+[posSemidef_map_exp]   build_ok=True used_sorry=False
+[posSemidef_map_exp]   axioms posSemidef_map_exp: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[vonNeumann_doubleCommutant_tfae] running lemmas=2/5 cost=11.77
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=19.79
+[glAction_range_eq_centralizer_symAction] running lemmas= cost=
+[e8_irrep_tensor_square_decomp] running lemmas= cost=
+[cerf_gamma_four] final status=completed (35 pending)
+[cerf_gamma_four] lake build...
+[cerf_gamma_four]   build_ok=False used_sorry=False
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas= cost=
+[brauer_character_in_cyclotomic] final status=completed (34 pending)
+[brauer_character_in_cyclotomic] lake build...
+[brauer_character_in_cyclotomic]   build_ok=True used_sorry=False
+[brauer_character_in_cyclotomic]   axioms brauer_character_in_cyclotomic: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=12.04
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=10/11 cost=10.81
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=3/10 cost=16.65
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=5/6 cost=15.68
+[neukirch_uchida] running lemmas= cost=
+[chudnovsky_formula_for_pi_inv] final status=completed (33 pending)
+[chudnovsky_formula_for_pi_inv] lake build...
+[chudnovsky_formula_for_pi_inv]   build_ok=True used_sorry=True
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=2/5 cost=20.69
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=3/5 cost=14.76
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=7/7 cost=14.50
+[vonNeumann_doubleCommutant_tfae] running lemmas=3/5 cost=15.08
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=23.22
+[glAction_range_eq_centralizer_symAction] running lemmas=3/4 cost=8.88
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=9.80
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas=1/1 cost=0.73
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=14.30
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=10/11 cost=11.97
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=6/10 cost=19.20
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=5/6 cost=16.31
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=3/5 cost=22.33
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=16.28
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=7/7 cost=14.50
+[vonNeumann_doubleCommutant_tfae] running lemmas=3/5 cost=17.36
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=24.64
+[glAction_range_eq_centralizer_symAction] running lemmas=3/4 cost=9.98
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=9.86
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] running lemmas=1/1 cost=0.73
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=15.19
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=10/11 cost=13.10
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=7/10 cost=21.36
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=5/6 cost=17.09
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=3/5 cost=23.40
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=17.51
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] running lemmas=7/7 cost=14.50
+[vonNeumann_doubleCommutant_tfae] running lemmas=3/5 cost=18.63
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=25.11
+[glAction_range_eq_centralizer_symAction] running lemmas=3/6 cost=11.44
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=10.30
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[exists_nonisotopic_knots] final status=completed (32 pending)
+[exists_nonisotopic_knots] lake build...
+[exists_nonisotopic_knots]   build_ok=False used_sorry=False
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=16.76
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=10/11 cost=14.02
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=7/13 cost=23.43
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=5/6 cost=17.74
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=1/1 cost=24.18
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=19.30
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[exists_complementary_polynomial_on_unit_circle] final status=completed (31 pending)
+[exists_complementary_polynomial_on_unit_circle] lake build...
+[exists_complementary_polynomial_on_unit_circle]   build_ok=True used_sorry=True
+[vonNeumann_doubleCommutant_tfae] running lemmas=3/7 cost=20.61
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=26.24
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=14.36
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=10.65
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=17.39
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=10/11 cost=14.81
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=8/13 cost=25.98
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=6/7 cost=19.18
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] running lemmas=1/1 cost=24.18
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=20.39
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas=4/7 cost=22.09
+[symAction_range_eq_centralizer_glAction] running lemmas=5/6 cost=27.68
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=16.08
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=11.02
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=4/5 cost=18.46
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=11/12 cost=15.49
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=9/13 cost=28.55
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=6/7 cost=20.00
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pi3_sphere_two_mulEquiv_int] final status=completed (30 pending)
+[pi3_sphere_two_mulEquiv_int] lake build...
+[pi3_sphere_two_mulEquiv_int]   build_ok=False used_sorry=False
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=21.58
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas=4/7 cost=23.67
+[symAction_range_eq_centralizer_glAction] running lemmas=6/10 cost=29.76
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=17.56
+[e8_irrep_tensor_square_decomp] running lemmas=1/1 cost=12.22
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=5/8 cost=20.26
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=2/2 cost=16.70
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=9/15 cost=31.07
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=6/7 cost=20.90
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=23.03
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas= cost=
+[vonNeumann_doubleCommutant_tfae] running lemmas=5/7 cost=25.06
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=30.87
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=19.61
+[e8_irrep_tensor_square_decomp] running lemmas=1/3 cost=13.14
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=6/8 cost=21.32
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=2/2 cost=16.70
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas= cost=
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=11/15 cost=34.89
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=6/7 cost=21.31
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=25.20
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] running lemmas=1/1 cost=0.47
+[vonNeumann_doubleCommutant_tfae] running lemmas=5/7 cost=26.19
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=31.63
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=20.22
+[e8_irrep_tensor_square_decomp] running lemmas=2/3 cost=13.38
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=7/8 cost=21.90
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] running lemmas=2/2 cost=16.70
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=1/6 cost=7.03
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=37.29
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=6/7 cost=22.44
+[neukirch_uchida] running lemmas= cost=
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/5 cost=26.67
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] final status=completed (29 pending)
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius] lake build...
+[irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius]   build_ok=True used_sorry=True
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=27.42
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=33.48
+[glAction_range_eq_centralizer_symAction] running lemmas=6/7 cost=21.32
+[e8_irrep_tensor_square_decomp] running lemmas=2/3 cost=14.75
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=7/8 cost=22.64
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[bakerWustholz_linearForms_logs] final status=completed (28 pending)
+[bakerWustholz_linearForms_logs] lake build...
+[bakerWustholz_linearForms_logs]   build_ok=False used_sorry=False
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=3/6 cost=9.33
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=40.72
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=4/8 cost=24.38
+[neukirch_uchida] running lemmas=1/1 cost=0.94
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/6 cost=28.36
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=28.70
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=36.08
+[glAction_range_eq_centralizer_symAction] running lemmas=5/10 cost=22.66
+[e8_irrep_tensor_square_decomp] running lemmas=3/4 cost=15.57
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=7/8 cost=22.88
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=4/6 cost=10.28
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=42.33
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=7/8 cost=25.17
+[neukirch_uchida] running lemmas=1/1 cost=0.94
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/6 cost=29.92
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=29.72
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=37.35
+[glAction_range_eq_centralizer_symAction] running lemmas=6/10 cost=24.00
+[e8_irrep_tensor_square_decomp] running lemmas=2/2 cost=15.71
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=7/8 cost=22.88
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas= cost=
+[cubic_decay_asymptotic] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=4/6 cost=11.06
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=44.05
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=7/8 cost=25.87
+[neukirch_uchida] final status=completed (27 pending)
+[neukirch_uchida] lake build...
+[neukirch_uchida]   build_ok=False used_sorry=False
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/6 cost=31.99
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=30.66
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=39.19
+[glAction_range_eq_centralizer_symAction] running lemmas=8/10 cost=26.04
+[e8_irrep_tensor_square_decomp] running lemmas=2/2 cost=15.71
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] running lemmas= cost=
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=8/9 cost=24.12
+[five_transitive_card_classification] running lemmas= cost=
+[topological_classification_of_surfaces] running lemmas= cost=
+[deBranges_theorem] running lemmas=5/6 cost=1.77
+[cubic_decay_asymptotic] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=5/6 cost=11.55
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=45.84
+[fermat_last_theorem] running lemmas= cost=
+[rado_riemannSurface] running lemmas=7/8 cost=26.58
+[pi1_circle_mulEquiv_int] running lemmas= cost=
+[substInv_X_sub_X_sq_eq_catalan] running lemmas= cost=
+[riemann_hypothesis_iff_lagarias_elementary_criterion] running lemmas= cost=
+[dvd_card_connectedComponent_markoffGraph] running lemmas= cost=
+[pin_sphere_n_mulEquiv_int] running lemmas= cost=
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=4/6 cost=33.38
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=31.75
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=40.84
+[glAction_range_eq_centralizer_symAction] running lemmas=8/10 cost=27.42
+[e8_irrep_tensor_square_decomp] final status=completed (26 pending)
+[e8_irrep_tensor_square_decomp] lake build...
+[e8_irrep_tensor_square_decomp]   build_ok=False used_sorry=False
+[smale_conjecture] running lemmas= cost=
+[gleason_theorem_separable] running lemmas= cost=
+[exists_nonisotopic_link] final status=failed (25 pending)
+[exists_nonisotopic_link] lake build...
+[exists_nonisotopic_link]   build_ok=True used_sorry=True
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] running lemmas= cost=
+[glauberman_zStar] running lemmas=8/9 cost=25.38
+[five_transitive_card_classification] final status=failed (24 pending)
+[five_transitive_card_classification] lake build...
+[five_transitive_card_classification]   build_ok=True used_sorry=True
+[topological_classification_of_surfaces] final status=failed (23 pending)
+[topological_classification_of_surfaces] lake build...
+[topological_classification_of_surfaces]   build_ok=True used_sorry=True
+[deBranges_theorem] running lemmas=5/6 cost=3.97
+[cubic_decay_asymptotic] running lemmas= cost=
+[dirichlet_eigenvalues_eq_nat_sq] running lemmas=6/6 cost=12.80
+[linear_ode_asymptotic_stability] running lemmas= cost=
+[heat_kernel_solves_heat_equation] running lemmas=12/15 cost=49.16
+[fermat_last_theorem] final status=failed (22 pending)
+[fermat_last_theorem] lake build...
+[fermat_last_theorem]   build_ok=True used_sorry=True
+[rado_riemannSurface] running lemmas=7/8 cost=29.01
+[pi1_circle_mulEquiv_int] final status=failed (21 pending)
+[pi1_circle_mulEquiv_int] lake build...
+[pi1_circle_mulEquiv_int]   build_ok=True used_sorry=True
+[substInv_X_sub_X_sq_eq_catalan] final status=failed (20 pending)
+[substInv_X_sub_X_sq_eq_catalan] lake build...
+[substInv_X_sub_X_sq_eq_catalan]   build_ok=True used_sorry=True
+[riemann_hypothesis_iff_lagarias_elementary_criterion] final status=failed (19 pending)
+[riemann_hypothesis_iff_lagarias_elementary_criterion] lake build...
+[riemann_hypothesis_iff_lagarias_elementary_criterion]   build_ok=True used_sorry=True
+[dvd_card_connectedComponent_markoffGraph] final status=failed (18 pending)
+[dvd_card_connectedComponent_markoffGraph] lake build...
+[dvd_card_connectedComponent_markoffGraph]   build_ok=True used_sorry=True
+[pin_sphere_n_mulEquiv_int] final status=failed (17 pending)
+[pin_sphere_n_mulEquiv_int] lake build...
+[pin_sphere_n_mulEquiv_int]   build_ok=True used_sorry=True
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] final status=failed (16 pending)
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow] lake build...
+[finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow]   build_ok=True used_sorry=True
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=5/6 cost=39.78
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=39.37
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=46.43
+[glAction_range_eq_centralizer_symAction] running lemmas=8/10 cost=33.63
+[smale_conjecture] final status=failed (15 pending)
+[smale_conjecture] lake build...
+[smale_conjecture]   build_ok=True used_sorry=True
+[gleason_theorem_separable] final status=failed (14 pending)
+[gleason_theorem_separable] lake build...
+[gleason_theorem_separable]   build_ok=True used_sorry=True
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[frobenius_kernel_isNormal] final status=failed (13 pending)
+[frobenius_kernel_isNormal] lake build...
+[frobenius_kernel_isNormal]   build_ok=True used_sorry=True
+[glauberman_zStar] running lemmas=8/9 cost=29.06
+[deBranges_theorem] running lemmas=6/7 cost=7.33
+[cubic_decay_asymptotic] running lemmas=7/7 cost=5.52
+[dirichlet_eigenvalues_eq_nat_sq] final status=completed (12 pending)
+[dirichlet_eigenvalues_eq_nat_sq] lake build...
+[dirichlet_eigenvalues_eq_nat_sq]   build_ok=True used_sorry=False
+[dirichlet_eigenvalues_eq_nat_sq]   axioms dirichlet_eigenvalues_eq_nat_sq: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[linear_ode_asymptotic_stability] running lemmas=4/8 cost=28.69
+[heat_kernel_solves_heat_equation] final status=completed (11 pending)
+[heat_kernel_solves_heat_equation] lake build...
+[heat_kernel_solves_heat_equation]   build_ok=True used_sorry=True
+[rado_riemannSurface] running lemmas=6/7 cost=33.51
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=6/8 cost=42.66
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=40.41
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=47.78
+[glAction_range_eq_centralizer_symAction] running lemmas=8/15 cost=37.79
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[glauberman_zStar] running lemmas=10/12 cost=31.45
+[deBranges_theorem] running lemmas=6/7 cost=8.44
+[cubic_decay_asymptotic] running lemmas=7/7 cost=5.80
+[linear_ode_asymptotic_stability] running lemmas=4/8 cost=31.77
+[rado_riemannSurface] running lemmas=6/7 cost=34.16
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=6/8 cost=43.03
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=40.51
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=48.19
+[glAction_range_eq_centralizer_symAction] running lemmas=10/15 cost=39.62
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[glauberman_zStar] running lemmas=10/12 cost=33.09
+[deBranges_theorem] running lemmas=6/7 cost=8.65
+[cubic_decay_asymptotic] running lemmas=7/7 cost=6.24
+[linear_ode_asymptotic_stability] running lemmas=5/8 cost=33.13
+[rado_riemannSurface] running lemmas=6/7 cost=34.88
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=8/9 cost=45.32
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=41.29
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=48.53
+[glAction_range_eq_centralizer_symAction] running lemmas=10/15 cost=42.40
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[glauberman_zStar] running lemmas=10/12 cost=33.86
+[deBranges_theorem] running lemmas=6/7 cost=9.16
+[cubic_decay_asymptotic] running lemmas=7/7 cost=6.24
+[linear_ode_asymptotic_stability] running lemmas=6/8 cost=36.85
+[rado_riemannSurface] running lemmas=6/7 cost=35.88
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=8/9 cost=46.04
+[vonNeumann_doubleCommutant_tfae] running lemmas=6/7 cost=42.09
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=49.32
+[glAction_range_eq_centralizer_symAction] running lemmas=10/15 cost=45.61
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[glauberman_zStar] running lemmas=10/12 cost=34.89
+[deBranges_theorem] running lemmas=7/8 cost=9.81
+[cubic_decay_asymptotic] final status=completed (10 pending)
+[cubic_decay_asymptotic] lake build...
+[cubic_decay_asymptotic]   build_ok=True used_sorry=False
+[cubic_decay_asymptotic]   axioms cubic_decay_asymptotic: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[linear_ode_asymptotic_stability] running lemmas=6/8 cost=40.19
+[rado_riemannSurface] running lemmas=6/7 cost=36.97
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=8/9 cost=46.80
+[vonNeumann_doubleCommutant_tfae] running lemmas=7/7 cost=42.74
+[symAction_range_eq_centralizer_glAction] running lemmas=8/9 cost=50.00
+[glAction_range_eq_centralizer_symAction] running lemmas=11/15 cost=49.27
+[m23_irrep_tensor_square_decomp] running lemmas= cost=
+[glauberman_zStar] running lemmas=11/12 cost=35.94
+[deBranges_theorem] running lemmas=7/8 cost=10.58
+[linear_ode_asymptotic_stability] running lemmas=5/8 cost=43.15
+[rado_riemannSurface] running lemmas=6/7 cost=37.49
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=8/9 cost=47.67
+[vonNeumann_doubleCommutant_tfae] running lemmas=7/7 cost=43.20
+[symAction_range_eq_centralizer_glAction] final status=completed (9 pending)
+[symAction_range_eq_centralizer_glAction] lake build...
+[symAction_range_eq_centralizer_glAction]   build_ok=True used_sorry=True
+[glAction_range_eq_centralizer_symAction] running lemmas=11/15 cost=50.00
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=4.44
+[glauberman_zStar] running lemmas=11/12 cost=36.70
+[deBranges_theorem] running lemmas=7/7 cost=10.84
+[linear_ode_asymptotic_stability] running lemmas=5/9 cost=46.20
+[rado_riemannSurface] running lemmas=7/8 cost=38.35
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas= cost=
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] running lemmas=8/9 cost=50.00
+[vonNeumann_doubleCommutant_tfae] running lemmas=7/7 cost=43.20
+[glAction_range_eq_centralizer_symAction] final status=completed (8 pending)
+[glAction_range_eq_centralizer_symAction] lake build...
+[glAction_range_eq_centralizer_symAction]   build_ok=True used_sorry=True
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=6.66
+[glauberman_zStar] running lemmas=11/12 cost=37.62
+[deBranges_theorem] final status=completed (7 pending)
+[deBranges_theorem] lake build...
+[deBranges_theorem]   build_ok=False used_sorry=False
+[linear_ode_asymptotic_stability] running lemmas=7/9 cost=50.00
+[rado_riemannSurface] running lemmas=7/8 cost=39.86
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=3/5 cost=11.15
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] final status=completed (6 pending)
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex] lake build...
+[mem_convexHull_finset_extremePoints_of_mem_compact_convex]   build_ok=True used_sorry=True
+[vonNeumann_doubleCommutant_tfae] final status=completed (5 pending)
+[vonNeumann_doubleCommutant_tfae] lake build...
+[vonNeumann_doubleCommutant_tfae]   build_ok=True used_sorry=False
+[vonNeumann_doubleCommutant_tfae]   axioms vonNeumann_doubleCommutant_tfae: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=10.46
+[glauberman_zStar] running lemmas=11/12 cost=39.73
+[linear_ode_asymptotic_stability] final status=completed (4 pending)
+[linear_ode_asymptotic_stability] lake build...
+[linear_ode_asymptotic_stability]   build_ok=True used_sorry=True
+[rado_riemannSurface] running lemmas=7/8 cost=41.30
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=3/5 cost=13.13
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=12.03
+[glauberman_zStar] running lemmas=11/12 cost=40.13
+[rado_riemannSurface] running lemmas=6/7 cost=41.78
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=4/7 cost=14.14
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=12.87
+[glauberman_zStar] running lemmas=11/12 cost=40.73
+[rado_riemannSurface] running lemmas=6/7 cost=42.25
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=4/7 cost=15.03
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=13.99
+[glauberman_zStar] running lemmas=12/14 cost=41.42
+[rado_riemannSurface] running lemmas=6/8 cost=42.64
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=4/7 cost=15.57
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=15.22
+[glauberman_zStar] running lemmas=12/14 cost=42.37
+[rado_riemannSurface] running lemmas=7/8 cost=43.15
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=5/7 cost=16.46
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=16.60
+[glauberman_zStar] running lemmas=12/14 cost=42.64
+[rado_riemannSurface] running lemmas=7/8 cost=43.53
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=5/7 cost=16.94
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=17.73
+[glauberman_zStar] running lemmas=12/14 cost=43.32
+[rado_riemannSurface] running lemmas=7/8 cost=44.09
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=5/7 cost=18.07
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=18.34
+[glauberman_zStar] running lemmas=12/14 cost=43.97
+[rado_riemannSurface] running lemmas=7/8 cost=44.73
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=6/7 cost=18.86
+[m23_irrep_tensor_square_decomp] running lemmas=1/5 cost=19.89
+[glauberman_zStar] running lemmas=13/14 cost=44.89
+[rado_riemannSurface] running lemmas=7/8 cost=45.17
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=6/7 cost=19.33
+[m23_irrep_tensor_square_decomp] running lemmas=1/8 cost=20.67
+[glauberman_zStar] running lemmas=13/14 cost=45.20
+[rado_riemannSurface] running lemmas=7/8 cost=45.50
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=6/8 cost=19.69
+[m23_irrep_tensor_square_decomp] running lemmas=1/8 cost=22.44
+[glauberman_zStar] running lemmas=13/14 cost=45.37
+[rado_riemannSurface] running lemmas=7/8 cost=46.09
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=20.15
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=24.09
+[glauberman_zStar] running lemmas=13/14 cost=45.94
+[rado_riemannSurface] running lemmas=7/8 cost=46.50
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=20.27
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=26.29
+[glauberman_zStar] running lemmas=13/14 cost=46.42
+[rado_riemannSurface] running lemmas=7/8 cost=47.15
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=20.66
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=29.78
+[glauberman_zStar] running lemmas=13/14 cost=46.88
+[rado_riemannSurface] running lemmas=7/8 cost=47.31
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=20.85
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=32.15
+[glauberman_zStar] running lemmas=13/14 cost=47.56
+[rado_riemannSurface] running lemmas=7/8 cost=47.60
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=21.33
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=35.15
+[glauberman_zStar] running lemmas=13/14 cost=48.19
+[rado_riemannSurface] running lemmas=7/8 cost=48.06
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=21.66
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=37.49
+[glauberman_zStar] running lemmas=13/14 cost=48.31
+[rado_riemannSurface] running lemmas=7/8 cost=48.90
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=7/8 cost=21.88
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=39.82
+[glauberman_zStar] running lemmas=13/14 cost=48.76
+[rado_riemannSurface] running lemmas=7/8 cost=49.35
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.08
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=42.99
+[glauberman_zStar] running lemmas=13/14 cost=48.86
+[rado_riemannSurface] running lemmas=7/8 cost=49.85
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.08
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=44.18
+[glauberman_zStar] running lemmas=13/14 cost=49.83
+[rado_riemannSurface] running lemmas=7/8 cost=50.00
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.08
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=46.64
+[glauberman_zStar] running lemmas=13/14 cost=50.00
+[rado_riemannSurface] running lemmas=7/8 cost=50.00
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.08
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=48.05
+[glauberman_zStar] running lemmas=13/14 cost=50.00
+[rado_riemannSurface] final status=completed (3 pending)
+[rado_riemannSurface] lake build...
+[rado_riemannSurface]   build_ok=True used_sorry=True
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.08
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=49.96
+[glauberman_zStar] final status=completed (2 pending)
+[glauberman_zStar] lake build...
+[glauberman_zStar]   build_ok=True used_sorry=True
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.16
+[m23_irrep_tensor_square_decomp] running lemmas=2/8 cost=50.00
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.16
+[m23_irrep_tensor_square_decomp] final status=completed (1 pending)
+[m23_irrep_tensor_square_decomp] lake build...
+[m23_irrep_tensor_square_decomp]   build_ok=True used_sorry=True
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.16
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.16
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=8/8 cost=22.16
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.29
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.32
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.32
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.32
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.32
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.32
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.37
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.37
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.37
+[pi_succ_sphere_n_mulEquiv_zmod_two] running lemmas=1/1 cost=22.37
+[pi_succ_sphere_n_mulEquiv_zmod_two] final status=completed (0 pending)
+[pi_succ_sphere_n_mulEquiv_zmod_two] lake build...
+[pi_succ_sphere_n_mulEquiv_zmod_two]   build_ok=False used_sorry=False
+
+=== full sweep summary: 7/43 succeeded ===
+  bvp_comparison                                OK
+  g2_irrep_tensor_square_decomp                 fail
+  cyclotomic_integer_house_between_two_and_76_33 fail
+  exists_chiral_knot                            fail
+  schreier_conjecture                           fail
+  sturm_separation                              OK
+  posSemidef_map_exp                            OK
+  cerf_gamma_four                               fail
+  brauer_character_in_cyclotomic                OK
+  chudnovsky_formula_for_pi_inv                 fail
+  exists_nonisotopic_knots                      fail
+  exists_complementary_polynomial_on_unit_circle fail
+  pi3_sphere_two_mulEquiv_int                   fail
+  irreducible_nonnegative_matrix_has_positive_eigenvector_at_spectralRadius fail
+  bakerWustholz_linearForms_logs                fail
+  neukirch_uchida                               fail
+  e8_irrep_tensor_square_decomp                 fail
+  exists_nonisotopic_link                       fail
+  five_transitive_card_classification           fail
+  topological_classification_of_surfaces        fail
+  fermat_last_theorem                           fail
+  pi1_circle_mulEquiv_int                       fail
+  substInv_X_sub_X_sq_eq_catalan                fail
+  riemann_hypothesis_iff_lagarias_elementary_criterion fail
+  dvd_card_connectedComponent_markoffGraph      fail
+  pin_sphere_n_mulEquiv_int                     fail
+  finite_group_isSolvable_of_card_eq_prime_pow_mul_prime_pow fail
+  smale_conjecture                              fail
+  gleason_theorem_separable                     fail
+  frobenius_kernel_isNormal                     fail
+  dirichlet_eigenvalues_eq_nat_sq               OK
+  heat_kernel_solves_heat_equation              fail
+  cubic_decay_asymptotic                        OK
+  symAction_range_eq_centralizer_glAction       fail
+  glAction_range_eq_centralizer_symAction       fail
+  deBranges_theorem                             fail
+  mem_convexHull_finset_extremePoints_of_mem_compact_convex fail
+  vonNeumann_doubleCommutant_tfae               OK
+  linear_ode_asymptotic_stability               fail
+  rado_riemannSurface                           fail
+  glauberman_zStar                              fail
+  m23_irrep_tensor_square_decomp                fail
+  pi_succ_sphere_n_mulEquiv_zmod_two            fail

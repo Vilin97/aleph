@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/dvd_card_connectedComponent_markoffGraph
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 24f10167-be00-40af-88bd-75b952ccb9d9
+View at: https://alephprover.logicalintelligence.com/requests/24f10167-be00-40af-88bd-75b952ccb9d9

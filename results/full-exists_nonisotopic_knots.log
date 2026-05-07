@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/exists_nonisotopic_knots
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 507990b7-d647-4e2a-9b48-f32e11929cd5
+View at: https://alephprover.logicalintelligence.com/requests/507990b7-d647-4e2a-9b48-f32e11929cd5

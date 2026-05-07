@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/g2_irrep_tensor_square_decomp
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 142c319c-f15c-48c0-8856-4000542cfc8f
+View at: https://alephprover.logicalintelligence.com/requests/142c319c-f15c-48c0-8856-4000542cfc8f

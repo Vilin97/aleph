@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/riemann_hypothesis_iff_lagarias_elementary_criterion
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 906d5101-0edc-4de4-ac15-d359fa553cbc
+View at: https://alephprover.logicalintelligence.com/requests/906d5101-0edc-4de4-ac15-d359fa553cbc

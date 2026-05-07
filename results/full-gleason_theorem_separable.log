@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/gleason_theorem_separable
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 21ba2afb-0e99-40e5-b01f-fb938b8ae38d
+View at: https://alephprover.logicalintelligence.com/requests/21ba2afb-0e99-40e5-b01f-fb938b8ae38d

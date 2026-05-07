@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/fermat_last_theorem
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: b3f3465b-7357-459d-9984-467c1c548dc1
+View at: https://alephprover.logicalintelligence.com/requests/b3f3465b-7357-459d-9984-467c1c548dc1

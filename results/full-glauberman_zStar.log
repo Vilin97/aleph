@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/glauberman_zStar
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: 417bb8a3-56b3-4b94-88e5-dfcfa8b2062c
+View at: https://alephprover.logicalintelligence.com/requests/417bb8a3-56b3-4b94-88e5-dfcfa8b2062c

@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/bvp_comparison
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: 3da936bb-cddc-4ba4-b581-2ed54d3a8bef
+View at: https://alephprover.logicalintelligence.com/requests/3da936bb-cddc-4ba4-b581-2ed54d3a8bef

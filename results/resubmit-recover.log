@@ -1,0 +1,41 @@
+[mulCayley_connected_iff_closure_eq_top] polling 85bbf699-0921-47e1-bc37-30754ca622ff...
+[mulCayley_connected_iff_closure_eq_top]   final status=completed
+[mulCayley_connected_iff_closure_eq_top]   applied 2 file(s): ['Submission/Helpers.lean', 'Submission.lean']
+[mulCayley_connected_iff_closure_eq_top]   cache get...
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[mulCayley_connected_iff_closure_eq_top]   lake build...
+[mulCayley_connected_iff_closure_eq_top]   build_ok=True used_sorry=False
+[mulCayley_connected_iff_closure_eq_top]   axioms mulCayley_connected_iff_closure_eq_top: ok=True ['propext', 'Classical.choice', 'Quot.sound']
+[rouche_zero_count_eq] polling f14e3230-e884-4189-a2fc-a3cbb947da45...
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=32.85 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=33.66 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=35.09 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=35.51 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=36.42 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=37.15 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=37.74 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/7 cost=38.97 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=40.53 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=42.52 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=44.90 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=46.68 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=47.91 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=49.86 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=50.00 (sleeping 60s)
+[rouche_zero_count_eq]   status=running lemmas=6/10 cost=50.00 (sleeping 60s)
+[rouche_zero_count_eq]   final status=completed
+[rouche_zero_count_eq]   applied 2 file(s): ['Submission/Helpers.lean', 'Submission.lean']
+[rouche_zero_count_eq]   cache get...
+Current branch: HEAD
+Using cache (Azure) from origin: (some leanprover-community/mathlib4)
+No files to download
+Already decompressed 8297 file(s)
+[rouche_zero_count_eq]   lake build...
+[rouche_zero_count_eq]   build_ok=True used_sorry=True
+
+=== recovery summary ===
+  mulCayley_connected_iff_closure_eq_top   status=completed  1/1 hole(s) succeeded
+  rouche_zero_count_eq                     status=completed  0/1 hole(s) succeeded

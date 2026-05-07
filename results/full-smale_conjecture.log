@@ -1,0 +1,14 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/smale_conjecture
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 7 files (0.0 MB)
+Submitting proof request...
+Request ID: bc7798c2-013e-4e87-9dff-3d91d1b86e91
+View at: https://alephprover.logicalintelligence.com/requests/bc7798c2-013e-4e87-9dff-3d91d1b86e91

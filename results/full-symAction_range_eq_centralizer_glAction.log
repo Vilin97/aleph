@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/symAction_range_eq_centralizer_glAction
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 6aaf8104-9891-4141-b4e8-a5a08e9acf08
+View at: https://alephprover.logicalintelligence.com/requests/6aaf8104-9891-4141-b4e8-a5a08e9acf08

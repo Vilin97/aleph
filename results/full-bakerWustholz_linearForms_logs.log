@@ -1,0 +1,15 @@
+Project root: /Users/vasil/Github/aleph/lean-eval/workspaces/bakerWustholz_linearForms_logs
+Zipping project...
+Lake not available, including all .lean files
+  lakefile.toml
+  lean-toolchain
+  Challenge.lean
+  ChallengeDeps.lean
+  Solution.lean
+  Submission/Helpers.lean
+  Submission.lean
+  WorkspaceTest.lean
+Archived 8 files (0.0 MB)
+Submitting proof request...
+Request ID: 52b7e423-6777-4ce6-8aba-d87b5a497f5c
+View at: https://alephprover.logicalintelligence.com/requests/52b7e423-6777-4ce6-8aba-d87b5a497f5c
